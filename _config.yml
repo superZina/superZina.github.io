@@ -20,8 +20,8 @@
 
 title: Odin - A Jekyll Knowledge Base Theme
 description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
-baseurl: "" # the subpath of your site, e.g. /support
-url: "https://superZina.github.io" # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+baseurl: /odin # the subpath of your site, e.g. /support
+url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
@@ -86,5 +86,3 @@ plugins:
 sass:
   sass_dir:          _scss
   style:            :compressed
-
-remote_theme : mmistakes/minimal-mistakes
