@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rosa git
+title: "Rosa git"
 description: squared memo
 baseurl: "" # the subpath of your site, e.g. /support
 url: "https://superZina.github.io" # the base hostname AND PROTOCOL for your site, e.g. http://example.com
@@ -53,8 +53,8 @@ nav_item_two_link: https://twitter.com/TheTeaGuns
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: Return to Rosa Home
+nav_button_link: "https://superZina.github.io/."
 
 # More Help
 help_one_title: Odin Bugs
