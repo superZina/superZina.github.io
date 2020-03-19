@@ -6,7 +6,7 @@ category: using-odin
 author: Rosa
 short-description:  ViewController LifeCycle
 ---
-아이폰에서 어플리케이션을 사용할 때 기기의 한 화면 안에 여러가지 화면을 왔다갔다 하는데 이번 3주차 과제에는 그와 관련된 ViewController의 생명주기에 관해 알아보겠다.
+아이폰에서 어플리케이션을 사용할 때 기기의 한 화면 안에 여러가지 화면을 왔다갔다 하는데   이번 3주차 과제에는 그와 관련된 ViewController의 생명주기에 관해 알아보겠다.
 
 ## **ViewController LifeCycle 이란?**
 
