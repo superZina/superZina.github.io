@@ -11,13 +11,13 @@ short-description:  ViewController LifeCycle
 ## **ViewController LifeCycle 이란?**
 
 #### 아이폰에서 어플리케이션을 사용하다보면 화면을 띄우고, 홈버튼을 눌러 화면을 없애고, 또는 네비게이션 버튼이나 탭 버튼 (이외에 다양한 객체들)을 눌러 화면 전환을 하게되는데, 이러한 모든 과정들은 UIViewController의 특정 상황에 관련된 메소드들로 관리하게 된다. 따라서 어떤 이벤트에 화면전환이 될때 어떤 (UIViewController에 정의된) 메소드들을 오버라이드 하여 적절한 행동을 추가하는지 알아야 한다.  
-￼￼￼￼![ex_screenshot](./img/viewlife)
+￼￼￼￼![ex_screenshot](./img/viewlife.png)
 
 iOS 운영체제는 자동으로 이러한 컨트롤러가 상태간에 전환될 때 메소드들을 적절하게 불러온다.  
 
 **UIViewController의 생명주기(상태)**
 
-![lifeCycle](./img/LifeCycle)
+![lifeCycle](./img/LifeCycle.png)
 - View Controller의 생명주기. 
 
 UIViewController 생명주기의 상태엔 총 8가지가 있지만 먼저 중요 5개 상태 먼저 살펴보자.
